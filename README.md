@@ -1,0 +1,4 @@
+faktorial
+=========
+
+bilangan faktorial
